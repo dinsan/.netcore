@@ -1,0 +1,11 @@
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\bin\Debug\netcoreapp2.0\netcoreExample.deps.json
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\bin\Debug\netcoreapp2.0\netcoreExample.runtimeconfig.json
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\bin\Debug\netcoreapp2.0\netcoreExample.runtimeconfig.dev.json
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\bin\Debug\netcoreapp2.0\netcoreExample.dll
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\bin\Debug\netcoreapp2.0\netcoreExample.pdb
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\obj\Debug\netcoreapp2.0\netcoreExample.csprojAssemblyReference.cache
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\obj\Debug\netcoreapp2.0\netcoreExample.csproj.CoreCompileInputs.cache
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\obj\Debug\netcoreapp2.0\netcoreExample.AssemblyInfoInputs.cache
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\obj\Debug\netcoreapp2.0\netcoreExample.AssemblyInfo.cs
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\obj\Debug\netcoreapp2.0\netcoreExample.dll
+C:\Users\dinsan\Documents\NetCore\web\netcoreExample\obj\Debug\netcoreapp2.0\netcoreExample.pdb
